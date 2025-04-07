@@ -32,7 +32,7 @@ int main() {
     scanf("%d", &Pontosturisticos);
 
 
-    printf("Carta 1\n");
+    printf("Carta: \n");
 	printf("Estado: %s\n", Estado);
 	printf("Código: %s\n", Codigo);
 	printf("Cidade: %s\n", Cidade);
